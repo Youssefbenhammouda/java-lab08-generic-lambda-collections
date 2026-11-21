@@ -29,3 +29,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+# Lab 8 collections examples (course material)
+src/collections/
+out/production/lab08-java/collections/

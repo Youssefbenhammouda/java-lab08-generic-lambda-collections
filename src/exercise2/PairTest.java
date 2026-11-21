@@ -34,7 +34,7 @@ public class PairTest {
    */
   @Test
   public void testPairStringInteger() {
-    // TODO: Create a test similar to that above
+
   }
   
   /**
@@ -54,7 +54,7 @@ public class PairTest {
   /**
    * Test for a composite parameterized Pair
    */
-  // TODO: Uncomment this test when Pair is parameterized
+
 
   @Test
   public void testPairHelperIntegerToString() {
